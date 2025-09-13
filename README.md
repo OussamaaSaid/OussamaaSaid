@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Même quand je ne code pas, je trouve toujours des solutions logiques… même pour gagner à Tetris !😄**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
